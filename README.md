@@ -6,4 +6,5 @@ This is my Ansible repository!
 
 ![IMG_3057](https://github.com/tioluu/Ansible/assets/116491567/c0eb0db5-7962-45b9-b558-b2f6a10fdd59)
 
-![IMG_3056](https://github.com/tioluu/Ansible/assets/116491567/b2005cac-dda8-438a-b71d-e9519fcc4217)
+![IMG_3058](https://github.com/tioluu/Ansible/assets/116491567/c79d675e-8e7a-48bd-953c-e3a402b37888)
+
